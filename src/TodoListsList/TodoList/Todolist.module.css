@@ -1,0 +1,28 @@
+.tasksBox{
+    height: 260px;
+    width: 240px;
+    padding: 10px 5px;
+    overflow-x: hidden;
+    overflow-y: auto;
+}
+.AddItemFormBox{
+    height: 75px;
+}
+::-webkit-scrollbar {
+    width: 15px;
+}
+
+/*::-webkit-scrollbar-track {*/
+/*    background: transparent;*/
+/*    box-shadow: 0 0 2px rgba(0, 0, 0, .2) inset;*/
+/*}*/
+
+::-webkit-scrollbar-thumb {
+    background:#5ba7b8;
+    border-radius: 8px;
+   box-shadow: 0 0 30px #7c7c7c;
+}
+
+::-webkit-scrollbar-thumb:hover {
+    background: #3795a4;
+}

@@ -1,0 +1,9 @@
+
+.todoListContainer {
+    display: flex;
+    align-items: center;
+    min-height: 100vh;
+    padding-left: 30%;
+    background: url("https://goo.su/6KwS") no-repeat center ;
+    background-size: 100%;
+}
